@@ -29,7 +29,7 @@ Security and data privacy are also important considerations. User information, q
 In conclusion, the Interactive Quiz Application is a powerful and user-friendly tool that combines learning, assessment, and entertainment. By providing real-time interaction, instant feedback, and performance tracking, it creates a positive learning environment for users. Whether used for education, training, or personal growth, the Interactive Quiz Application helps users stay engaged, motivated, and confident while improving their knowledge.
 
 *OUTPUT*:
-
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e75bedf5-1d34-4427-800c-5afc9b496034" />
 
 
 
